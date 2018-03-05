@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 /* look for anchor tag inside of a form element -
    because Link renders as an anchor*/
+=======
+/* look for ancor tag inside of a form element -
+   because Link renders as an ancor*/
+>>>>>>> 114d67825210a5456232b2ad06897fe2a4328db2
 form a {
   margin-left: 5px;
 }
